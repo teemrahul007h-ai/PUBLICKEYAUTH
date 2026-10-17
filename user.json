@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "username": "223",
+    "password": "313",
+    "expiry": "2026-11-16",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": false,
+    "reseller": "123@gmail.com"
+  }
+]
