@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "email": "1@gmail.com",
+    "password": "1234",
+    "createdAt": "2026-10-18T10:46:39.249Z",
+    "status": "active"
+  }
+]
