@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "username": "1",
+    "password": "1",
+    "expiry": "2026-11-17",
+    "subscription": "SOX AIMBOT",
+    "hwid": "",
+    "frozen": false,
+    "reseller": "admin"
+  }
+]
