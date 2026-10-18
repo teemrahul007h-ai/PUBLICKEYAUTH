@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "username": "fef",
+    "password": "f",
+    "expiry": "2026-11-17",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false,
+    "reseller": "admin"
+  }
+]
