@@ -5,5 +5,10 @@
     "createdAt": "2026-10-17T15:37:00.585Z",
     "status": "active",
     "limit": 500
+  },
+  {
+    "email": "admin",
+    "limit": 999999,
+    "createdAt": "2026-10-18T07:36:28.531Z"
   }
 ]
