@@ -7,5 +7,14 @@
     "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
     "frozen": false,
     "reseller": "admin"
+  },
+  {
+    "username": "2",
+    "password": "1",
+    "expiry": "2026-12-06",
+    "subscription": "SOX1",
+    "hwid": "",
+    "frozen": false,
+    "reseller": "admin"
   }
 ]
